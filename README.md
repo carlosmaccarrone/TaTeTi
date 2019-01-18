@@ -9,5 +9,5 @@ twisted : framework de red
 
 Posibles mejoras: 
         -refactorización del código
-        -terminar los threads que se corran con atributos display en el modo red
+        -terminar o reutilizar los threads que se corran con atributos display en el modo red
                   
