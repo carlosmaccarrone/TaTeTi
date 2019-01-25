@@ -19,5 +19,5 @@ Si se tiene problemas para instalar twisted en windows descargarlo aquí https:/
 
 
 
-<img src="https://github.com/carlosmaccarrone/TaTeTi/blob/master/capturas/capturaprimera.jpg" width="240" height="320"> ![captura](capturas/capturados.jpg) ![captura](capturas/capturatres.jpg)
+<img src="https://github.com/carlosmaccarrone/TaTeTi/blob/master/capturas/capturaprimera.jpg" width="320" height="240"> ![captura](capturas/capturados.jpg) ![captura](capturas/capturatres.jpg)
 
