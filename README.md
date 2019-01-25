@@ -16,3 +16,7 @@ Posibles mejoras:
         
 Si se tiene problemas para instalar twisted en windows descargarlo aquí https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted e instalar con pip, 'pip install *.whl', también encontrará los wheels de pygame en el link si los desea.
 
+
+
+
+
