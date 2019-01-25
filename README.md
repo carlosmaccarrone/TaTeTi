@@ -1,7 +1,7 @@
 # TaTeTi
 Juego de TaTeTi en RED
 
-Descripción: tateti con interfaz gráfica y menu de selección para jugar contra una computadora, dos jugadores en la misma pc, o dos jugadores a travez de una comunicación de tipo cliente/servidor-servent. Si se conoce la ip pública del servidor y éste abre el puerto que va a usar desde el modem(tcp) también se puede jugar a travez de internet. Se puede jugar en windows y linux, pero por ahora la parte de red solo para linux. 
+Descripción: tateti con interfaz gráfica y menu de selección para jugar contra una computadora, dos jugadores en la misma pc, o dos jugadores a travez de una comunicación de tipo cliente/servidor-servent. Si se conoce la ip pública del servidor y éste abre el puerto que va a usar desde el modem(tcp) también se puede jugar a travez de internet. Se puede jugar en windows y linux, pero por ahora la parte de red solo para linux (debido al uso de threads, pero lo he probado sin el menu y funciona en ambos so). 
 
 Es necesario tener instalado los siguientes paquetes de python:
 pygame : para la interfaz gráfica
