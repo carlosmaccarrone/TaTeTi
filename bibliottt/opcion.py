@@ -180,7 +180,7 @@ def seleccionarPuertoParaCrear(ventana, letra):
 		textoUnirseAUnaPartidaFFDOS = fuenteParaUnirse.render(textoUnirseAUnaPartidaDOS, True, colorRojo)
 		ventana.blit(textoUnirseAUnaPartidaFFDOS, (209, 230))
 		fuenteParaUnirseDOS = pygame.font.Font(None, 24)
-		textoUnirseAUnaPartidaTRES = '(1024>puerto<65535, si el puerto esta siendo utilizado intente con otro)'
+		textoUnirseAUnaPartidaTRES = '(1024<puerto<65535, si el puerto esta siendo utilizado intente con otro)'
 		textoUnirseAUnaPartidaTRES = fuenteParaUnirseDOS.render(textoUnirseAUnaPartidaTRES, True, colorRojo)
 		ventana.blit(textoUnirseAUnaPartidaTRES, (209, 260))
 
