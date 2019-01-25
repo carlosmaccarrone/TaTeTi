@@ -5,8 +5,8 @@ Descripción: tateti con interfaz gráfica y menu de selección para jugar contr
 
 Es necesario tener instalado los siguientes paquetes de python:
 
-        -pygame : para la interfaz gráfica
-        -twisted : framework de red 
+        -pygame >= v1.9.4 : para la interfaz gráfica
+        -twisted >= v16.0.0 : framework de red 
 
 Posibles mejoras:
 
@@ -14,7 +14,9 @@ Posibles mejoras:
         -no utilizar threads y bombear el reactor de twisted
         
         
+        
 Si se tiene problemas para instalar twisted en windows descargarlo aquí https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted e instalar con pip, 'pip install *.whl', también encontrará los wheels de pygame en el link si los desea.
+
 
 
 
