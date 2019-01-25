@@ -10,4 +10,6 @@ twisted : framework de red
 Posibles mejoras: 
         -refactorización del código
         -cambiar los threads por clases y bombear el reactor de twisted
-                  
+        
+        
+Si se tiene problemas para instalar twisted descargarlo aquí https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted e instalar con pip, 'pip install *.whl'
