@@ -20,5 +20,5 @@ Si se tiene problemas para instalar twisted en windows descargarlo aquí https:/
 
 
 
-![captura](capturas/capturaprimera.jpg&s=200) ![captura](capturas/capturados.jpg) ![captura](capturas/capturatres.jpg)
+![captura](capturas/capturaprimera.jpg?v=4&s=200) ![captura](capturas/capturados.jpg) ![captura](capturas/capturatres.jpg)
 
