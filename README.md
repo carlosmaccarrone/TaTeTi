@@ -12,6 +12,7 @@ Posibles mejoras:
 
         -refactorización del código
         -no utilizar threads y bombear el reactor de twisted
+        -agregar un chat
         
         
         
