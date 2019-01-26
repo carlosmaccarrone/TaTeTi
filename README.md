@@ -7,7 +7,8 @@ Es necesario tener instalado los siguientes paquetes de python:
 
         -pygame >= v1.9.4 : para la interfaz gráfica
         -twisted >= v16.0.0 : framework de red 
-
+        -no olvidar crear un archivo __init__.py en el directorio contenedor de scripts
+        
 Posibles mejoras:
 
         -refactorización del código
