@@ -12,7 +12,7 @@ Es necesario tener instalado los siguientes paquetes de python:
 Posibles mejoras:
 
         -refactorización del código
-        -no utilizar threads y bombear el reactor de twisted
+        -no utilizar threads y bombear el reactor de twisted desde el script del menu
         -agregar un chat
         
         
